@@ -37,6 +37,7 @@ Frameworks, Platforms and Libraries
 ![MySQL](https://img.shields.io/badge/mysql-%23404d59.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB)
 ![Cucumber](https://img.shields.io/badge/cucumber-%23white.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23323330.svg?style=for-the-badge&logo=streamlit&logoColor=red)
+![FireBase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=orange)
 
 
 
