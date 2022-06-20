@@ -23,20 +23,20 @@ I am Jeff Lai, currently a undergraduate in Design and Artificial Intelligence, 
 <h2>🛠Tech Stack</h2>
 
 Languages  
-![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23white.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23E34F26.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 
 Frameworks, Platforms and Libraries  
-![Rails](https://img.shields.io/badge/rails-1C1E24?style=for-the-badge&logo=rails&logoColor=#B30000)
-![THREEjs](https://img.shields.io/badge/THREEjs-%23white.svg?style=for-the-badge&logo=3js&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23E34F26?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![THREEjs](https://img.shields.io/badge/THREEjs-%23white.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23404d59.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB)
-![Cucumber](https://img.shields.io/badge/cucumber-%23404d59.svg?style=for-the-badge&logo=cucumber&logoColor=%2361DAFB)
+![Cucumber](https://img.shields.io/badge/cucumber-%23white.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23323330.svg?style=for-the-badge&logo=streamlit&logoColor=red)
 
 
 
