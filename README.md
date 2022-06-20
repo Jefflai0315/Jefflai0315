@@ -23,6 +23,7 @@ I am Jeff Lai, currently a undergraduate in Design and Artificial Intelligence, 
 <h2>🛠Tech Stack</h2>
 
 Languages  
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,9 +33,10 @@ Languages
 
 
 Frameworks, Platforms and Libraries  
-![Rails](https://img.shields.io/badge/rails-1C1E24?style=for-the-badge&logo=rails&logoColor=#D04A37)
-![THREEjs](https://img.shields.io/badge/THREEjs-%23white.svg?style=for-the-badge&logo=threejs&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-1C1E24?style=for-the-badge&logo=rails&logoColor=#B30000)
+![THREEjs](https://img.shields.io/badge/THREEjs-%23white.svg?style=for-the-badge&logo=3js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23404d59.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB)
+![Cucumber](https://img.shields.io/badge/cucumber-%23404d59.svg?style=for-the-badge&logo=cucumber&logoColor=%2361DAFB)
 
 
 
