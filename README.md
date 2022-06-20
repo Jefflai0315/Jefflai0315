@@ -12,10 +12,10 @@ I am Jeff Lai, currently a undergraduate in Design and Artificial Intelligence, 
 <h3>Summary</h3>
 
 [![](https://raw.githubusercontent.com/jefflai0315/jefflai0315/main/profile-summary-card-output/monokai/0-profile-details.svg)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jefflai0315&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jefflai0315&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jefflai0315&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jefflai0315&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jefflai0315&theme=solarized_dark&utcOffset=8)
+[![](https://raw.githubusercontent.com/jefflai0315/jefflai0315/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jefflai0315&theme=solarized_dark)
+[![](https://raw.githubusercontent.com/jefflai0315/jefflai0315/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jefflai0315&theme=solarized_dark)
+[![](https://raw.githubusercontent.com/jefflai0315/jefflai0315/main/profile-summary-card-output/monokai/3-stats.svg)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jefflai0315&theme=solarized_dark)
+[![](https://raw.githubusercontent.com/jefflai0315/jefflai0315/main/profile-summary-card-output/monokai/4-productive-time.svg)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jefflai0315&theme=solarized_dark&utcOffset=8)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
